@@ -4,3 +4,4 @@ This is the first true "zero to hero" on my coding journey. With nothing but a k
 
 Credits:
 Logo - Elviss Railijs Bitāns via pexels.com
+Footer - Gabriela Mendes via pexels.com
